@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Open Source Projects**
-
 - 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **Development , Python , Machine learning**
 
 - 📫 How to reach me **kulkarni578@gmail.com**
 
